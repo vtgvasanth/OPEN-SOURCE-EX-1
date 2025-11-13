@@ -1,7 +1,5 @@
 # OPEN-SOURCE-EX-1
 Create a repository file  http://classroom.example.com/content/rhel9.0/x86_64/dvd/AppStream http://classroom.example.com/content/rhel9.0/x86_64/dvd/BaseOS
-# Name : PARTHASARATHI S
-# Reg No : 212223040144
 # Dept : CSE
 # Steps involved:
 ## Step 1 : cd /etc/yum.repos.d/
